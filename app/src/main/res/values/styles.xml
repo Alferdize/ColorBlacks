@@ -14,4 +14,12 @@
         <item name="android:textColor">@color/Textwhite</item>
         <item name="android:fontFamily"></item>
     </style>
+    <style name="RedBox">
+        <item name="android:background">@android:color/holo_red_dark</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">@dimen/box_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/Textwhite</item>
+        <item name="android:fontFamily"></item>
+    </style>
 </resources>
